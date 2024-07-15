@@ -1,4 +1,4 @@
-# Jeelani Weather App
+# Jeelani Weather Gui
 
 Jeelani Weather App is a simple weather application built using Python's Tkinter library for the GUI and the OpenWeatherMap API to fetch weather data.
 
